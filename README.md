@@ -1,11 +1,6 @@
 # GOQii-Technologies-Assessment-
 Demo Link: www.madhavjha.in/goqii-technologies-assessment
 
-
-# GOQii-Technologies-Assessment-
-
-Demo Link: www.madhavjha.in/goqii-technologies-assessment
-
 github URL: https://github.com/rmadhavjha/GOQii-Technologies-Assessment-
 
 ## Installation and Usage Guide for PHP Backend and React Frontend
